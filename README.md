@@ -1,2 +1,2 @@
-# The Minimal theme
+
 
